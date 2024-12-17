@@ -31,8 +31,8 @@ const Subtitulo = styled.h3`
 function Pesquisa() {
     return (
         <PesquisaContainer>
-        <h2>Já sabe por onde começar?</h2>
-        <h3>Encontre seu livro em nossa estante</h3>
+        <Titulo>Já sabe por onde começar?</Titulo>
+        <Subtitulo>Encontre seu livro em nossa estante</Subtitulo>
         <Input 
             placeholder="Escreva sua próxima leitura"
         />
