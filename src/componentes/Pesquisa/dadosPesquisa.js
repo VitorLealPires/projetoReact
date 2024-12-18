@@ -5,5 +5,4 @@ export const livros = [
     {nome: 'JavaScript Assertivo', id: 2, src: livro},
     {nome: 'Cangaceiro em Javascrip', id: 3, src: livro},
     {nome: 'Aventureiros de Java', id: 4, src: livro},
-    {nome: 'Liderança em UX', id: 5, src: livro}
 ]
