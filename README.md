@@ -1,4 +1,2 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Meu primeiro projeto de estudo utilizando react para aprender os conceitos básicos de Componetização e Reutilização de Componentes,Styled Components,MAPS,STATE
 
